@@ -1,0 +1,7 @@
+E:\GB\DevOps\1 блок\Итоговая контрольная работа по основному блоку\ConsoleAppFinalTask\ConsoleAppFinalTask\bin\Debug\ConsoleAppFinalTask.exe.config
+E:\GB\DevOps\1 блок\Итоговая контрольная работа по основному блоку\ConsoleAppFinalTask\ConsoleAppFinalTask\bin\Debug\ConsoleAppFinalTask.exe
+E:\GB\DevOps\1 блок\Итоговая контрольная работа по основному блоку\ConsoleAppFinalTask\ConsoleAppFinalTask\bin\Debug\ConsoleAppFinalTask.pdb
+E:\GB\DevOps\1 блок\Итоговая контрольная работа по основному блоку\ConsoleAppFinalTask\ConsoleAppFinalTask\obj\Debug\ConsoleAppFinalTask.csproj.AssemblyReference.cache
+E:\GB\DevOps\1 блок\Итоговая контрольная работа по основному блоку\ConsoleAppFinalTask\ConsoleAppFinalTask\obj\Debug\ConsoleAppFinalTask.csproj.CoreCompileInputs.cache
+E:\GB\DevOps\1 блок\Итоговая контрольная работа по основному блоку\ConsoleAppFinalTask\ConsoleAppFinalTask\obj\Debug\ConsoleAppFinalTask.exe
+E:\GB\DevOps\1 блок\Итоговая контрольная работа по основному блоку\ConsoleAppFinalTask\ConsoleAppFinalTask\obj\Debug\ConsoleAppFinalTask.pdb
