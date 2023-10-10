@@ -24,7 +24,7 @@
 ## **Решение**
 
 Блок-схема алгоритма:
-> ![Block-diagram](Block_diagram.drawio.png)
+> ![Block-diagram](block_diagram.drawio.png)
 
 ## **Код программы**
 ```cs
